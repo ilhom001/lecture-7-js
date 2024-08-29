@@ -1,5 +1,5 @@
 # new Date -чист 
-## new Date  -ин коструктори нави обект мебошад
+## new Date  -ин конструктори нави обект мебошад
 ### методхои new date 
 ### 1  getFeullYear  ()
 ### 2 getMouth       ()
