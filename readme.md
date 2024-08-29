@@ -1,4 +1,12 @@
-### ythytj7fsgfnhgnfn
-# cbf
-## gsfdxzvbsdfnbgfn 
-ghz fgn
+# new Date -чист 
+## new Date  -ин
+### методхои new date 
+### 1  getFeullYear  ()
+### 2 getMouth       ()
+### 3 getDate        ()
+### 4 getDay         ()
+### 5 getHause       ()
+### 6 getMinuts      ()
+### 7 getSecond      ()
+### 8 getMillisecond ()
+### 9 getTime        ()
